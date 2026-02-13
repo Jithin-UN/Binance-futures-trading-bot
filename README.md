@@ -130,3 +130,6 @@ Step 2 — Commit Changes
 git commit -m "Add detailed README with setup, usage, and assumptions"
 Step 3 — Push to GitHub
 git push
+
+Note:“.env is excluded via .gitignore to keep API keys safe.”
+    -logs that both MARKET and LIMIT orders were executed successfully on testnet
